@@ -28,10 +28,8 @@
     gap: 20px;
 }
 
-.App .firstDiv input{
-    height: 6%;
-    width: 80%;
-    border-radius: 20px;
+.App .firstDiv textarea{
+   
     border: none;
     outline: none;
 }
@@ -44,4 +42,5 @@
     color: black;
     border-radius: 20px;
     padding: 50px 50px;
+    flex-direction: column;
 }
